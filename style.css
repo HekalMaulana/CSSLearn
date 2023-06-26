@@ -1,33 +1,23 @@
-h2 {
-    font-weight: bold;
+.color {
+    color: coral;
 }
 
-.color-title {
-    font-weight: normal;
+.font_size {
+    font-size: 2rem;
 }
 
-
-img {
-    width: 200px;
-    height: 200px;
+.font_weight {
+    font-weight: 900;
 }
 
-#red {
-    color: red;
+.font_family {
+    font-family: "Caveat", cursive;
 }
 
-#blue {
-    color: blue;
+.text_align {
+    text-align: end;
 }
 
-#orange {
-    color: orange;
-}
-
-#green {
-    color: green;
-}
-
-#yellow {
-    color: yellow;
+html {
+    font-size: 30px;
 }
